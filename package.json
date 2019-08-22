@@ -1,0 +1,13 @@
+{
+    "name": "nodejshello",
+    "version": "0.0.0",
+    "description": "hello world nodejs in docker",
+    "author": "me",
+    "main": "server.js", 
+    "scripts": {
+        "start": "hello.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1"
+    }
+}
